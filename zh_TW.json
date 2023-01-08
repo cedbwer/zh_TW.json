@@ -14,7 +14,7 @@
   "narrator.select": "Selected: %s",
   "narrator.select.world": "Selected %s, last played: %s, %s, %s, version: %s",
   "narrator.loading": "Loading: %s",
-  "narrator.loading.done": "Done",
+  "narrator.loading.done": "完成",
   "narrator.joining": "Joining",
   "narrator.position.screen": "Screen element %s out of %s",
   "narrator.screen.usage": "Use mouse cursor or Tab button to select element",
